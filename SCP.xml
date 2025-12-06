@@ -14,7 +14,10 @@
             <Duration>00:00:35</Duration>
 
             <VideoClicks>
+              <!-- ClickThrough is just tracked, video continues -->
               <ClickThrough><![CDATA[https://shqipcinema.info/festa/]]></ClickThrough>
+              <!-- Optional: Track clicks without interrupting -->
+              <ClickTracking><![CDATA[https://shqipcinema.info/festa/]]></ClickTracking>
             </VideoClicks>
 
             <MediaFiles>
