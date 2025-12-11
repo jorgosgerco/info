@@ -25,7 +25,7 @@
                 height="720"
                 scalable="true"
                 maintainAspectRatio="true">
-                <![CDATA[https://YOUR-VIDEO-LINK-HERE.mp4]]>
+                <![CDATA[https://gnygxghbaxatvpryczjc.supabase.co/storage/v1/object/sign/files/1765470232347-rsa54fz0.mp4?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9jNTg5ZDg2ZS00MTZlLTRkMzItOGYxZS03OGJmMGZhMDA1MTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJmaWxlcy8xNzY1NDcwMjMyMzQ3LXJzYTU0ZnowLm1wNCIsImlhdCI6MTc2NTQ3MDMzMCwiZXhwIjoxNzY1NDczOTMwfQ.djOnjw0pGZOG6vKJHH4684s8PfllgdDr3t6RzOnpnMY]]>
               </MediaFile>
             </MediaFiles>
 
