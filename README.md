@@ -4,7 +4,12 @@
   <img src="https://github.com/jorgosgerco.png" width="130" height="130" style="border-radius: 50%;" alt="jorgosgerco avatar" />
 
   <h1>Software Engineering Student @ UNYT | C# & .NET Developer</h1>
-  <p>Building modern web applications, custom platforms, and backend APIs. Creator of <a href="https://shqipcinema.org" target="_blank">shqipcinema.org</a>.</p>
+  <p>Building modern web applications, custom platforms, and backend APIs.</p>
+  
+  <p>
+    <img src="https://www.google.com/s2/favicons?domain=shqipcinema.org&sz=64" width="18" height="18" style="vertical-align: middle;" alt="shqipcinema favicon" />
+    Creator of <a href="https://shqipcinema.org" target="_blank"><b>shqipcinema.org</b></a>
+  </p>
 
   <h2>🚀 Languages and Tools I Use</h2>
   <p>
@@ -30,6 +35,6 @@
   <!-- Stats Cards -->
   <img src="https://github-readme-stats.vercel.app/api?username=jorgosgerco&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgosgerco&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jorgosgerco&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
