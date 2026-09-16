@@ -32,9 +32,15 @@
 
   <br/>
 
-  <!-- Reliable Stats Cards -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgosgerco&theme=tokyo-night&height=300" alt="GitHub Activity Graph" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=jorgosgerco&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Reliable Account Metrics -->
+  <p>
+    <img src="https://img.shields.io/github/followers/jorgosgerco?label=Followers&style=for-the-badge&logo=github&color=1F2328" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/jorgosgerco?label=Stars&style=for-the-badge&logo=github&color=1F2328" alt="GitHub Stars" />
+  </p>
+
+  <br/>
+
+  <!-- GitHub Profile Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=jorgosgerco&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 
 </div>
