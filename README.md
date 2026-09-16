@@ -32,8 +32,8 @@
 
   <br/>
 
-  <!-- Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgosgerco&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Reliable Stats Cards -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jorgosgerco&theme=tokyo-night&height=300" alt="GitHub Activity Graph" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=jorgosgerco&theme=tokyonight" alt="GitHub Streak" />
 
